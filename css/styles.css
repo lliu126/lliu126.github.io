@@ -10414,7 +10414,7 @@ header.masthead .masthead-heading {
   text-align: center;
 }
 .team-member img {
-  height: 20rem;
+  height: 20rem!important;
   border: 0.5rem solid rgba(0, 0, 0, 0.1);
 }
 .team-member h4 {
